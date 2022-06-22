@@ -1,2 +1,0 @@
-# jenkinsslave
-instalation
